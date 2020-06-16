@@ -20,4 +20,4 @@ terraform -h
 export AWS_ACCESS_KEY_ID="xxxxxxxxxx"
 export AWS_SECRET_ACCESS_KEY="xxxxx"
 ```
-Existen mas formas de autenticarse, si no las conoces, puedes seguir las siguientes guías: [Crear credenciales para el proveedor de AWS](https://docs.aws.amazon.com/IAM/latest/UserGuide/id_credentials_access-keys.html#Using_CreateAccessKey) o [https://docs.aws.amazon.com/cli/latest/userguide/cli-chap-getting-started.html](Configurar la CLI de AWS). Más información sobre la autenticación con el proveedor de AWS Terraform: [https://www.terraform.io/docs/providers/aws/index.html](Proveedor de AWS)
+Existen mas formas de autenticarse, si no las conoces, puedes seguir las siguientes guías: [Crear credenciales para el proveedor de AWS](https://docs.aws.amazon.com/IAM/latest/UserGuide/id_credentials_access-keys.html#Using_CreateAccessKey) ó [Configurar la CLI de AWS](https://docs.aws.amazon.com/cli/latest/userguide/cli-chap-getting-started.html). Más información sobre la autenticación con el proveedor de AWS Terraform: [Proveedor de AWS](https://www.terraform.io/docs/providers/aws/index.html)
